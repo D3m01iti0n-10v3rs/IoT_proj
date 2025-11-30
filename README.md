@@ -1,4 +1,4 @@
-- Folder GUI_proj_IoT là phần GUI. Tải về giải nén rồi thêm vô project bên Unity
+- GUI_proj_IoT.zip là phần GUI. Tải về giải nén rồi thêm vô project bên Unity. link: https://drive.google.com/file/d/1_8GpJzQbXSG-rLzmNFL_KhHX3ecl4Ez7/view?usp=sharing
 - IoT_proj.ino là phần firmware
 
 Phần GUI với firmware chưa hoàn thiện, trên cùng của code firmware có ghi chú to do list
