@@ -1,0 +1,126 @@
+{
+  "current": {
+    "humidity": 49,
+    "lastUpdate": "00:04:26 30-11-2025",
+    "light": 0,
+    "studentNumber": 0,
+    "temperature": 29
+  },
+  "ioState": {
+    "doorState": false,
+    "fan1State": false,
+    "fan2State": false,
+    "light1State": false,
+    "light2State": false
+  },
+  "students": {
+    "fingerprint_data01": {
+      "attendance_flag": false,
+      "id": "23119152",
+      "name": "Nguyễn Phi Hùng",
+      "seat": 69,
+      "time_of_attendance": "null"
+    },
+    "fingerprint_data03": {
+      "attendance_flag": true,
+      "id": "12345678",
+      "name": "SV Bình Định 1",
+      "seat": 72,
+      "time_of_attendance": "2025-11-27 10:14:08"
+    },
+    "fingerprint_data04": {
+      "attendance_flag": true,
+      "id": "87654321",
+      "name": "SV Bình Định 2",
+      "seat": 71,
+      "time_of_attendance": "2025-11-27 10:14:41"
+    },
+    "fingerprint_data05": {
+      "attendance_flag": true,
+      "id": "36363636",
+      "name": "Đế Vương Thanh Hóa",
+      "seat": 70,
+      "time_of_attendance": "2025-11-27 10:15:28"
+    },
+    "fingerprint_data06": {
+      "attendance_flag": true,
+      "id": "12312312",
+      "name": "Bạn Kiên Chu",
+      "seat": 68,
+      "time_of_attendance": "2025-11-27 10:16:42"
+    },
+    "fingerprint_data07": {
+      "attendance_flag": true,
+      "id": "18181818",
+      "name": "Nam Định ăn cướp",
+      "seat": 61,
+      "time_of_attendance": "2025-11-27 10:17:45"
+    },
+    "fingerprint_data08": {
+      "attendance_flag": false,
+      "id": "37373737",
+      "name": "Mập địt hà tĩnh",
+      "seat": 62,
+      "time_of_attendance": "n/a"
+    },
+    "fingerprint_data09": {
+      "attendance_flag": false,
+      "id": "41248123",
+      "name": "Quân Chiro 2k5",
+      "seat": 12,
+      "time_of_attendance": "n/a"
+    },
+    "fingerprint_data10": {
+      "attendance_flag": true,
+      "id": "18232312",
+      "name": "Bill-san",
+      "seat": 8,
+      "time_of_attendance": "2025-11-27 10:20:51"
+    },
+    "fingerprint_data11": {
+      "attendance_flag": true,
+      "id": "95124123",
+      "name": "flo tu tiên VT",
+      "seat": 138,
+      "time_of_attendance": "2025-11-27 10:22:00"
+    },
+    "fingerprint_data12": {
+      "attendance_flag": false,
+      "id": "18181819",
+      "name": "SV 2 ngón",
+      "seat": 18,
+      "time_of_attendance": "n/a"
+    },
+    "fingerprint_data13": {
+      "attendance_flag": true,
+      "id": "34567800",
+      "name": "SV Cà Mau",
+      "seat": 90,
+      "time_of_attendance": "2025-11-27 10:24:22"
+    },
+    "fingerprint_data14": {
+      "attendance_flag": false,
+      "id": "31326342",
+      "name": "Bill-kun",
+      "seat": 7,
+      "time_of_attendance": "n/a"
+    },
+    "fingerprint_data15": {
+      "attendance_flag": true,
+      "id": "33334444",
+      "name": "Chiến Trần Idol",
+      "seat": 5,
+      "time_of_attendance": "2025-11-27 10:28:37"
+    }
+  },
+  "track": {
+    "delFingerprintData": false,
+    "enrollDone": false,
+    "enrollError": false,
+    "enrollFlag": false,
+    "fingerID": 2,
+    "manualMode": true,
+    "studentNumber": 0,
+    "teacher_flag": false
+  }
+}
