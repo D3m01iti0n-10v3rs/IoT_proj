@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=GND Pin=J5-14
+Added Member To Class: ClassName=Sheet1 Member=Component J6 Relay module

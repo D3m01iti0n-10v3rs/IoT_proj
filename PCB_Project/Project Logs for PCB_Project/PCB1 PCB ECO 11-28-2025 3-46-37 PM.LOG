@@ -1,0 +1,19 @@
+Added Pin To Net: NetName=5V_DECOUP Pin=C1-P
+Added Pin To Net: NetName=5V_DECOUP Pin=C2-P
+Added Pin To Net: NetName=5V_DECOUP Pin=C3-P
+Added Pin To Net: NetName=5V_DECOUP Pin=C4-P
+Added Pin To Net: NetName=5V_DECOUP Pin=C5-P
+Added Pin To Net: NetName=5V_DECOUP Pin=C6-P
+Added Pin To Net: NetName=5V_DECOUP Pin=C7-P
+Added Pin To Net: NetName=5V_DECOUP Pin=C8-P
+Added Pin To Net: NetName=5V_DECOUP Pin=J2-4
+Added Pin To Net: NetName=5V_DECOUP Pin=S1-2
+Added Net: Name=5V_DECOUP
+Added Member To Class: ClassName=Sheet1 Member=Component C1 2200uF
+Added Member To Class: ClassName=Sheet1 Member=Component C2 2200uF
+Added Member To Class: ClassName=Sheet1 Member=Component C3 220uF
+Added Member To Class: ClassName=Sheet1 Member=Component C4 220uF
+Added Member To Class: ClassName=Sheet1 Member=Component C5 220uF
+Added Member To Class: ClassName=Sheet1 Member=Component C6 220uF
+Added Member To Class: ClassName=Sheet1 Member=Component C7 100uF
+Added Member To Class: ClassName=Sheet1 Member=Component C8 100uF

@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=C3 Old Footprint=CAPPRD500W60D1250H2000 New Footprint=CAPPRD350W60D800H1150
+Change Component Footprint: Designator=C4 Old Footprint=CAPPRD500W60D1250H2000 New Footprint=CAPPRD350W60D800H1150
+Change Component Footprint: Designator=C5 Old Footprint=CAPPRD500W60D1250H2000 New Footprint=CAPPRD350W60D800H1150
+Change Component Footprint: Designator=C6 Old Footprint=CAPPRD500W60D1250H2000 New Footprint=CAPPRD350W60D800H1150
+Change Component Comment: Designator=C3 Old Comment=2200uF New Comment=220uF
+Change Component Comment: Designator=C4 Old Comment=2200uF New Comment=220uF
+Change Component Comment: Designator=C5 Old Comment=2200uF New Comment=220uF
+Change Component Comment: Designator=C6 Old Comment=2200uF New Comment=220uF

@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=LDR Pin=J4-07
+Added Pin To Net: NetName=LDR Pin=J5-12

@@ -1,0 +1,16 @@
+Added Member To Class: ClassName=Sheet1 Member=Component C1 2200uF
+Added Member To Class: ClassName=Sheet1 Member=Component C2 2200uF
+Added Member To Class: ClassName=Sheet1 Member=Component J1 1602 LCD
+Added Member To Class: ClassName=Sheet1 Member=Component J2 DC-005
+Added Member To Class: ClassName=Sheet1 Member=Component J3
+Added Member To Class: ClassName=Sheet1 Member=Component J4 ESP32 NodeMCU left
+Added Member To Class: ClassName=Sheet1 Member=Component J5 ESP32 NodeMCU right
+Added Member To Class: ClassName=Sheet1 Member=Component J6 Relay module
+Added Member To Class: ClassName=Sheet1 Member=Component J7 DHT11
+Added Member To Class: ClassName=Sheet1 Member=Component J8 R558S
+Added Member To Class: ClassName=Sheet1 Member=Component J9 Servo
+Added Member To Class: ClassName=Sheet1 Member=Component R1 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R2 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R3 PDV-P8103
+Added Member To Class: ClassName=Sheet1 Member=Component S1 TL2230EEF100
+Added Member To Class: ClassName=Sheet1 Member=Component VR 10K
