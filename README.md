@@ -1,10 +1,7 @@
 - Tải các build của GUI trong link gg drive. Có thể chạy luôn mà không dùng Unity Hub (link mới). link: https://drive.google.com/drive/folders/1Zwd0S4ZXXNldGKg5kQMbAWD8Oq8sg2Ll?usp=sharing
 - Folder firmware gồm code firmware với các phiên bản cũ/mới
 
-- Phần GUI:
-  + GUI chưa cập nhật sau khi dùng delete DB
-  + Lỗi thông báo đăng ký
-  + Sửa bảng sinh viên
+- Phần GUI: Đã xong, GUI chưa cập nhật sau khi dùng delete DB (có thể sửa hoặc không)
 - Phần firmware:
   + Sửa và thêm các thông báo trên LCD
   + Đổi từ polling thành stream hoặc polling có kiểm tra trạng thái trước đó
