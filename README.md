@@ -2,9 +2,8 @@
 - Folder firmware gồm code firmware với các phiên bản cũ/mới
 
 - Phần GUI (build mới nhất cập nhật 11/12/2025): Đã xong, GUI chưa cập nhật sau khi dùng delete DB (có thể sửa hoặc không)
-- Phần firmware:
-  + Sửa và thêm các thông báo trên LCD
-  + Đổi từ polling thành stream hoặc polling có kiểm tra trạng thái trước đó
+- Phần firmware (build mới nhất cập nhật 12/12/2025): Đã xong, có thể dổi cách truy xuất dữ liệu từ polling thành stream hoặc polling có kiểm tra trạng thái trước đó nếu cần
+- Phần HW: Hàn lại mạch trên board lỗ hoặc có thể làm PCB mới nếu rảnh
 
 - DB_structure.json là cấu trúc Database
 - Folder bc gồm báo cáo với lưu đồ các chức năng (đã cập nhật file báo cáo)
