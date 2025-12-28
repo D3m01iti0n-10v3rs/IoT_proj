@@ -1,0 +1,170 @@
+{
+  "current": {
+    "humidity": 33,
+    "lastUpdate": "10:59:40 27-12-2025",
+    "light": 100,
+    "studentNumber": 0,
+    "temperature": 25
+  },
+  "ioState": {
+    "doorState": true,
+    "fan1State": true,
+    "fan2State": true,
+    "light1State": true,
+    "light2State": true
+  },
+  "students": {
+    "fingerprint_data01": {
+      "attendance_flag": false,
+      "id": "23119152",
+      "name": "Nguyễn Phi Hùng",
+      "seat": 12,
+      "time_of_attendance": "n/a"
+    },
+    "fingerprint_data02": {
+      "attendance_flag": true,
+      "id": "23119140",
+      "name": "Phạm Minh Đức",
+      "seat": 1,
+      "time_of_attendance": "2025-12-27 10:32:47"
+    },
+    "fingerprint_data03": {
+      "attendance_flag": false,
+      "id": "23119157",
+      "name": "Nguyễn Tuấn Kiệt",
+      "seat": 2,
+      "time_of_attendance": "n/a"
+    },
+    "fingerprint_data04": {
+      "attendance_flag": false,
+      "id": "23119150",
+      "name": "Hoàng Mạnh Hùng",
+      "seat": 36,
+      "time_of_attendance": "n/a"
+    },
+    "fingerprint_data05": {
+      "attendance_flag": false,
+      "id": "23119155",
+      "name": "Lê Đoàn Thái Khương",
+      "seat": 3,
+      "time_of_attendance": "n/a"
+    },
+    "fingerprint_data06": {
+      "attendance_flag": false,
+      "id": "23119190",
+      "name": "Trương Thanh Phong",
+      "seat": 18,
+      "time_of_attendance": "n/a"
+    },
+    "fingerprint_data07": {
+      "attendance_flag": false,
+      "id": "23119138",
+      "name": "Nguyễn Thành Đô",
+      "seat": 5,
+      "time_of_attendance": "n/a"
+    },
+    "fingerprint_data08": {
+      "attendance_flag": false,
+      "id": "23119167",
+      "name": "Võ Ngọc Mến",
+      "seat": 44,
+      "time_of_attendance": "n/a"
+    },
+    "fingerprint_data09": {
+      "attendance_flag": false,
+      "id": "23119187",
+      "name": "Nguyễn Ngọc Trường Phi",
+      "seat": 29,
+      "time_of_attendance": "n/a"
+    },
+    "fingerprint_data10": {
+      "attendance_flag": false,
+      "id": "23119175",
+      "name": "Trịnh Văn Nghiêm",
+      "seat": 144,
+      "time_of_attendance": "n/a"
+    },
+    "fingerprint_data11": {
+      "attendance_flag": false,
+      "id": "23119202",
+      "name": "Đỗ Xuân Thanh",
+      "seat": 69,
+      "time_of_attendance": "n/a"
+    },
+    "fingerprint_data12": {
+      "attendance_flag": false,
+      "id": "23119149",
+      "name": "Quách Gia Huy",
+      "seat": 10,
+      "time_of_attendance": "n/a"
+    },
+    "fingerprint_data13": {
+      "attendance_flag": true,
+      "id": "23119125",
+      "name": "Phạm Gia Bảo",
+      "seat": 14,
+      "time_of_attendance": "10:44:02 27-12-2025"
+    },
+    "fingerprint_data14": {
+      "attendance_flag": false,
+      "id": "23119136",
+      "name": "Vũ Phan Thành Đạt",
+      "seat": 72,
+      "time_of_attendance": "n/a"
+    },
+    "fingerprint_data15": {
+      "attendance_flag": false,
+      "id": "23119153",
+      "name": "Võ Đăng Khoa",
+      "seat": 30,
+      "time_of_attendance": "n/a"
+    },
+    "fingerprint_data16": {
+      "attendance_flag": false,
+      "id": "24119155",
+      "name": "Phạm Đặng Thành Luân",
+      "seat": 87,
+      "time_of_attendance": "n/a"
+    },
+    "fingerprint_data17": {
+      "attendance_flag": false,
+      "id": "23119189",
+      "name": "Nguyễn Hồng Phong",
+      "seat": 100,
+      "time_of_attendance": "n/a"
+    },
+    "fingerprint_data18": {
+      "attendance_flag": false,
+      "id": "23119211",
+      "name": "Nguyễn Mai TIn",
+      "seat": 102,
+      "time_of_attendance": "n/a"
+    },
+    "fingerprint_data19": {
+      "attendance_flag": false,
+      "id": "23119158",
+      "name": "Phan Lê Anh Kiệt",
+      "seat": 67,
+      "time_of_attendance": "n/a"
+    },
+    "fingerprint_data20": {
+      "attendance_flag": true,
+      "id": "23119178",
+      "name": "Phan Ngọc Tuấn Nguyên",
+      "seat": 30,
+      "time_of_attendance": "10:53:37 27-12-2025"
+    }
+  },
+  "track": {
+    "autoMode": false,
+    "delFingerDone": false,
+    "delFingerError": false,
+    "delFingerprintData": false,
+    "enrollDone": false,
+    "enrollError": false,
+    "enrollFlag": false,
+    "fingerID": 21,
+    "studentNumber": 7,
+    "teacher_flag": false
+  }
+}
