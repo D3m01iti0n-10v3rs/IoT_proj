@@ -3,7 +3,6 @@
     "humidity": 33,
     "lastUpdate": "10:59:40 27-12-2025",
     "light": 100,
-    "studentNumber": 0,
     "temperature": 25
   },
   "ioState": {
@@ -164,7 +163,7 @@
     "enrollError": false,
     "enrollFlag": false,
     "fingerID": 21,
-    "studentNumber": 7,
+    "studentNumber": 3,
     "teacher_flag": false
   }
 }
