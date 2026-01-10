@@ -2,7 +2,7 @@
 - Folder firmware gồm code firmware dùng Arduine IDE
 
 - Phần GUI (build mới nhất cập nhật 11/12/2025): Đã xong
-- Phần firmware (build mới nhất cập nhật 06/01/2025): Add đo độ trễ, sửa bug
+- Phần firmware (build mới nhất cập nhật 10/01/2025): Sửa lại UI theo yêu cầu
 
 - DB_structure.json là cấu trúc Database
 - Folder bc gồm báo cáo với lưu đồ các chức năng (đã cập nhật file báo cáo)
