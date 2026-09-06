@@ -6,7 +6,7 @@ import numpy as np
 import tensorflow as tf
 from datetime import datetime
 
-DATABASE_URL = "https://test-119a8-default-rtdb.asia-southeast1.firebasedatabase.app"
+DATABASE_URL = ""
 if getattr(sys, "frozen", False):
     BASE_DIR = os.path.dirname(sys.executable)
 else:
