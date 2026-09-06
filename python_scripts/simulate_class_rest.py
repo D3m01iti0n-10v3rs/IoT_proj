@@ -3,7 +3,7 @@ import random
 import time
 from datetime import datetime
 
-DB_URL = "https://test-119a8-default-rtdb.asia-southeast1.firebasedatabase.app"
+DB_URL = ""
 
 ENTER_DELAY = (0.01, 0.05)
 LEAVE_DELAY = (0.01, 0.05)
