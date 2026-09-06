@@ -22,8 +22,8 @@ const char* password = "xomtro247";
 //const char* ssid = "84 NTT (2.4G)";
 //const char* password = "84857937";
 
-#define FIREBASE_HOST "test-119a8-default-rtdb.asia-southeast1.firebasedatabase.app"
-#define FIREBASE_AUTH "YK6wmkGJDolANaT4B3ylSi34pW49qgKoYYP8cKUb"
+#define FIREBASE_HOST ""
+#define FIREBASE_AUTH ""
 
 const char* ntpServer = "pool.ntp.org";
 const long  gmtOffset_sec = 7 * 3600; // GMT+7
