@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 public class FirebaseDataManager : MonoBehaviour
 {
     [Header("Firebase Configuration")]
-    public string databaseURL = "https://test-119a8-default-rtdb.asia-southeast1.firebasedatabase.app/";
+    public string databaseURL = "";
 
     private DatabaseReference databaseReference;
     private FirebaseApp firebaseApp;
